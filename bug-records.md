@@ -32,7 +32,5 @@ https://stackoverflow.com/a/65891462/18517831
 
 ![image-20230531011116974](./bug-records.assets/image-20230531011116974.png)
 
-
-
-
+<img src="./bug-records.assets/image-20230531011624215.png" alt="image-20230531011624215" style="zoom:50%;" />
 
